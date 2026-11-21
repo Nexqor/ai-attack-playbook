@@ -29,6 +29,7 @@
 | 06 | [Data & Model Poisoning](06-data-poisoning.md) | Training and fine-tuning data | 🟠 High | LLM04 |
 | 07 | [Model Supply Chain](07-model-supply-chain.md) | Model files, dependencies | 🔴 Critical | LLM03 |
 | 08 | [LLMjacking](08-llmjacking.md) | API keys, AI gateways | 🔴 High | LLM10 |
+| 09 | [MCP Tool Poisoning](09-mcp-tool-poisoning.md) | MCP servers, agent tools | 🔴 Critical | LLM03 / LLM06 |
 
 ## How to read a play
 
