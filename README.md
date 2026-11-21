@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://nexqor.github.io/playbook.html"><img src="https://img.shields.io/badge/read%20on-the%20site-ff2f2f?style=for-the-badge" alt="site"/></a>
+  <a href="https://nexqor.github.io/playbook.html"><img src="https://img.shields.io/badge/read%20on-the%20site-c41237?style=for-the-badge" alt="site"/></a>
   <a href="https://x.com/whyNexqor"><img src="https://img.shields.io/badge/X-@whyNexqor-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <img src="https://img.shields.io/badge/for-defenders-ff2f2f?style=for-the-badge" alt="defenders"/>
+  <img src="https://img.shields.io/badge/for-defenders-c41237?style=for-the-badge" alt="defenders"/>
 </p>
 
 ---
